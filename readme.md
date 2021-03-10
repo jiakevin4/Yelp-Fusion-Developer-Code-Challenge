@@ -8,7 +8,7 @@ Business Name, Business Address, Excerpt From A Review Of That Business, and Nam
 Clone the repo:
 
 ```
-git clone 
+git clone https://github.com/jiakevin4/Yelp-Fusion-Developer-Code-Challenge.git
 ```
 
 Go into the directory:
